@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaan Noor</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src=“./81178b47a8598f0c81c4799f2cdd4057.gif” />
+<img align="right" alt="Coding" width="400" src="https://pin.it/5d8e97z"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadayaannoor&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadayaannoor" /> </p>
 
