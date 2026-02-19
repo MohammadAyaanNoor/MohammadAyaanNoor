@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaan Noor</h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
+<h3 align="center">An Aspiring Creative Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadayaannoor&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadayaannoor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadayaannoor" alt="mohammadayaannoor" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working on **Three.js**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **GLSL Shaders**
 
-- 💬 Ask me about **Frontend and backend development**
+- 💬 Ask me about **Creative Development**
 
-- 📫 How to reach me **rjayaan722@gmail.com**
+- 📫 How to reach me **workforayaan722@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
